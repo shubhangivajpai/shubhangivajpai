@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Potato disease Prediction**
 
-- 🌱 I’m currently learning **Deep learning, Machine learning**
+- 🌱 I’m currently learning **Deep Learning and Frontend**
 
 - 💬 Ask me about **Python,Machine learning,Deep Learning**
 
 - 📫 How to reach me **shubhangivajpai939@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/shubhangi-vajpai-0b05401a5](www.linkedin.com/in/shubhangi-vajpai-0b05401a5)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shubhangi-vajpai-0b05401a5/](https://www.linkedin.com/in/shubhangi-vajpai-0b05401a5/)
 
 - ⚡ Fun fact **I am funny and weird**
 
