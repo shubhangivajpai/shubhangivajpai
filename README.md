@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhangi-vajpai-0b05401a5/](https://www.linkedin.com/in/shubhangi-vajpai-0b05401a5/)
 
-- ⚡ Fun fact **I am funny and weird**
+- ⚡ Fun fact **I speak fluent Python and can even have a conversation with a snake 🐍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
